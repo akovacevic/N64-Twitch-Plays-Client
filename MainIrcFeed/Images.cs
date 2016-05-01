@@ -43,6 +43,7 @@ namespace MainIrcFeed
             Dr = _getFullPath("dright");
             Dl = _getFullPath("Dleft");
             Start = _getFullPath("start");
+
         }
 
         private static string _getFullPath(string file)
