@@ -19,6 +19,8 @@ Add your Twitch username and an oauth password, which you can get from https://t
 
 All Done, Enjoy!
 
+![Alt text](/screenCapture.png?raw=true "Optional Title")
+
 ## Configure your own keys:
 In the MainWINdow.xaml.cs page
 
